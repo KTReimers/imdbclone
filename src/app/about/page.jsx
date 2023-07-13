@@ -1,7 +1,7 @@
 
 export default function About() {
     return (
-        <div className="max-w-6xl mx-auto space-y-4">
+        <div className="max-w-6xl mx-auto space-y-4 p-4">
             <h1 className="text-2xl font-medium text-amber-600">About</h1>
             <p>Welcome to IMDBClone, your ultimate destination for all things movies and television! IMDBClone is a meticulously crafted clone of the popular IMDb website, offering you an immersive and comprehensive experience in the world of entertainment.</p>
 
